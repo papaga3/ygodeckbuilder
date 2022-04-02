@@ -1,8 +1,9 @@
 {
   "name": "ygodeckbuilder",
   "version": "0.0.1",
-  "description": "A simple yugioh deck builder",
-  "main": "index.js",
+  "description": "A simple ygo deck builder using REact",
+  "main": "index.html",
+  "repository": "https://github.com/papaga3/ygodeckbuilder.git",
   "author": "Nguyen Quoc Huy",
   "license": "MIT",
   "devDependencies": {
